@@ -6,7 +6,7 @@
 
 Projeto Construído do evento Next Level Week da Rocketseat.
 
-[Clique aqui para acessar](https://koiti13.github.io/nlw-esports-explorer/)
+[Clique aqui para acessar](https://caiotakahata.github.io/nlw-esports-explorer/)
 
 
 ## 🛠️ Tecnologias
